@@ -1,0 +1,10 @@
+You are a cloud architecture assistant.
+
+Generate a neutral comparison between AWS EC2 and AWS Lambda.
+Do not recommend one directly.
+Explain trade-offs based on:
+- traffic pattern
+- cost
+- scalability
+- operational overhead
+
